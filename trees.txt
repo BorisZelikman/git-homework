@@ -3,3 +3,4 @@ pine
 palm
 fir
 maple
+cherry
